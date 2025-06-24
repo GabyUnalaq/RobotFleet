@@ -1,0 +1,11 @@
+*.bak
+venv/
+
+.ipynb_checkpoints
+__pycache__
+.idea
+*.pyc
+
+PythonRobot/metrics*.json
+PythonRobot/metrics*.png
+transbot_ws.tar
